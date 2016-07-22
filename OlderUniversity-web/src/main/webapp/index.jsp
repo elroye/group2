@@ -6,7 +6,8 @@
 </head>
 <body>
 <ul>
-<li>产品模块
+<li>产品模块家里就考虑的设计案例可根据  
+
 		<ul>
 			<li><a href="${pageContext.request.contextPath}/product/product/list">产品表</a></li>
 			<li><a href="${pageContext.request.contextPath}/product/category/list">类型表</a></li>
